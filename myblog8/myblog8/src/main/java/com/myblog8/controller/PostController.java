@@ -14,6 +14,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api/post")
 public class PostController {
 
+
+   // Technology has significantly transformed the way we live, work, and communicate. From smartphones to artificial intelligence, innovations continue to reshape industries and everyday experiences. People can now access information instantly, work remotely, and stay connected with others across the globe. While these advancements bring many benefits, they also raise concerns about privacy, screen addiction, and job displacement. As society continues to evolve, it's important to find a balance between embracing progress and addressing its challenges.
     @Autowired
     private PostService postService;
 
