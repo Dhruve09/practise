@@ -17,7 +17,7 @@ import javax.persistence.*;
 )
 public class Post {
 
-    @Id//id
+    @Id//id//id 1
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
